@@ -1,4 +1,4 @@
-# 5NDN FSM
+# 5NDN FSM ![](https://api.travis-ci.org/5ndn/fsm.svg?branch=master)
 
 A Flexible Finite State Machine for Javascript.
 
