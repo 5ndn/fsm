@@ -1,3 +1,3 @@
-export {StateManager}  from './src/StateManager';
-export {State} from './src/State';
-export {Status} from './src/Status';
+export { default as StateManager } from './src/StateManager';
+export { default as State } from './src/State';
+export { default as Status } from './src/Status';

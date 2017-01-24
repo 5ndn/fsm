@@ -1,8 +1,8 @@
 var should = require('chai').should();
 
-//import {StateManager,State} from '../index';
-import StateManager from '../src/StateManager';
-import State from '../src/State';
+import {StateManager,State} from '../index';
+//import StateManager from '../src/StateManager';
+//import State from '../src/State';
 
 describe('StateManager', function() {
 
