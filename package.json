@@ -1,6 +1,6 @@
 {
   "name": "5ndn-fsm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript Finite State Machine",
   "main": "index.js",
   "scripts": {
